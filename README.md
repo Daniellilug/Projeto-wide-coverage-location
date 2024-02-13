@@ -14,3 +14,5 @@ e a estilização do mesmo com CSS, com a meta de aprendizado do conteúdo propo
 </ul>
 
 <h2>## :computer: Resultado </h2>
+<img src="https://github.com/Daniellilug/Wide-coverage-location/blob/master/img/Computador%20wide.png?raw=true" alt="Computador-wide" />
+<img src="https://github.com/Daniellilug/Wide-coverage-location/blob/master/img/Computador%20wide.png?raw=true" alt="Computador-wide" />
