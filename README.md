@@ -20,7 +20,7 @@ e a estilização do mesmo com CSS, com a meta de aprendizado do conteúdo propo
         <img src="https://github.com/Daniellilug/Wide-coverage-location/blob/master/img/Computador%20wide.png?raw=true" width="100%"/> 
     </td>
     <td>
-        <img src="https://github.com/Daniellilug/Wide-coverage-location/blob/master/img/Celular%20wide.png?raw=true" height="250px" width="auto" />     
+        <img src="https://github.com/Daniellilug/Wide-coverage-location/blob/master/img/Celular%20wide.png?raw=true" height="250px" width="50%" />     
    </td>
   </tr>
 </table>
