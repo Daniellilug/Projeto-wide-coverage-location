@@ -14,14 +14,7 @@ e a estilização do mesmo com CSS, com a meta de aprendizado do conteúdo propo
 </ul>
 
 <h2>## :computer: Resultado </h2>
-<table border="0">
-  <tr>
-    <td>
-        <img src="https://github.com/Daniellilug/Wide-coverage-location/blob/master/img/Computador%20wide.png?raw=true" width="100%"/> 
-    </td>
-    <td>
-        <img src="https://github.com/Daniellilug/Wide-coverage-location/blob/master/img/Celular%20wide.png?raw=true" height="150px" width="100%" />     
-   </td>
-  </tr>
-</table>
+<img src="https://github.com/Daniellilug/Wide-coverage-location/blob/master/img/Computador%20wide.png" height:15px />
+<img src="https://github.com/Daniellilug/Wide-coverage-location/blob/master/img/Celular%20wide.png" height:15px />
+
 
