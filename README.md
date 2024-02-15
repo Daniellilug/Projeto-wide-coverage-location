@@ -14,7 +14,7 @@ e a estilização do mesmo com CSS, com a meta de aprendizado do conteúdo propo
 </ul>
 
 <h2>## :computer: Resultado </h2>
-<img src="https://github.com/Daniellilug/Wide-coverage-location/blob/master/img/Computador%20wide.png" height:15px />
-<img src="https://github.com/Daniellilug/Wide-coverage-location/blob/master/img/Celular%20wide.png" height:15px />
+<img src="https://github.com/Daniellilug/Wide-coverage-location/blob/master/img/Computador%20wide.png" alt="localizaçao ampla computador" height:15px />
+<img src="https://github.com/Daniellilug/Wide-coverage-location/blob/master/img/Celular%20wide.png" alt="localizaçao ampla celular" height:15px />
 
 
